@@ -3,7 +3,7 @@ Module 3: Getting and Cleaning Data Assignment
 
 ###Instructions
 
-1. Download the data set by clicking on the following link. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+1. Download the datafile named "getdata-projectfiles-UCI HAR Dataset.zip"
 
 2. Save the zip file in YOURDIRECTORY and unzip the file. You should see a folder named "getdata-projectfiles-UCI HAR DatasetUCI". Note: Do not change the name of the zip file.
 
