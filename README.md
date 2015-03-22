@@ -1,12 +1,6 @@
 # Getting-and-Cleaning-Data-Project
 Module 3: Getting and Cleaning Data Assignment
 
-##Source of Data
-
-A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
-Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-
 ###Instructions
 
 1. Download the data set by clicking on the following link. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
